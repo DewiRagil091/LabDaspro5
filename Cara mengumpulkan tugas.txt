@@ -1,0 +1,19 @@
+git checkout tugas_1
+
+{
+Pindahkan file ke folder (Copy Paste aja maksudnya).
+
+Penamaan File:
+[Nama]_[NIM]_[Huruf Soal]_[code/output].[extension]
+
+Format pengumpulan file:
+1. Source code dengan extension .pas
+Contoh: Andreas_067_A_code.pas
+
+2. Screenshot output program dengan extension .jpg/.jpeg/.png
+Contoh: Andreas_067_A_output.png
+}
+
+git add .
+git commit -m "Pengumpulan Tugas 1"
+git push -u
